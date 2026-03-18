@@ -1,1 +1,1 @@
-
+User-Agent: <product> / <product-version> <comment> (<system-information>) <platform> (<platform-details>) <extensions>
