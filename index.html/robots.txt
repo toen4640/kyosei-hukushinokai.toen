@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:  <パス（先頭は/）>
+Disallow:
 Allow:
 Sitemap:   https://toen4640.github.io/kyosei-hukushinokai.toen/index.html/sitemap.xml
