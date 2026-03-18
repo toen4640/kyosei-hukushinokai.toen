@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /entry/
-Allow: /entry/kiyaku.php
 
-Sitemap: [absoluteURL]
