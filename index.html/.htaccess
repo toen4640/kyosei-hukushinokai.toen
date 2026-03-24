@@ -1,0 +1,9 @@
+# .htaccess でリダイレクト設定
+# 個別のURLをリダイレクト
+Redirect 301 /old-page.html https://example.com/new-page/
+
+# カスタム404ページを設定
+ErrorDocument 404 /404.html
+
+# または RewriteRule を使用
+RewriteRule ^old-page/?$ /new-page/ [R=301,L]
