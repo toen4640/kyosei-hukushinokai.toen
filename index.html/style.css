@@ -109,10 +109,6 @@ main li {
     border-bottom: 2px solid #253958;
     text-align: left;
 }
-.sclool {
-    height: 125px;
-    overflow: auto;
-}
 /* すべてのページに適応 - フッター */
 .gotop {
     text-align: center;
