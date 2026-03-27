@@ -79,9 +79,6 @@ img {
     text-align: center;
 }
 /* すべてのページに適応 - メイン */
-.event　｛
-    size: 1.1rem;
-｝
 main {
     margin: 90px auto 90px auto;
     max-width: 1000px;
