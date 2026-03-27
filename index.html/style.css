@@ -75,8 +75,8 @@ img {
 }
 
 /* すべてのページに適応 - ヒーロー */
-.hero {
-    text-align: center;
+.hero.index {
+    background-image: url(../image/桃園トップ.jpg);
 }
 /* すべてのページに適応 - メイン */
 main {
