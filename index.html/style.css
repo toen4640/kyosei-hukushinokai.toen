@@ -6,9 +6,6 @@ html {
 * {
     box-sizing: border-box;
 }
-body {
-    margin: 0 0 0 0;
-}
 p,li,td,h2 {
     line-height: 1.7;
     text-align: left;
