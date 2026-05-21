@@ -41,7 +41,9 @@ img {
 }
 /* すべてのページに適応 - ヘッダー */
 .header {
-    
+    padding-top: 40px;
+    background-image: url(画像/stripe.png);
+    background-repeat: repeat-x;
 }
 .tytle {
     font-size: 30px;
